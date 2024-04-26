@@ -55,7 +55,7 @@ const CodeEditorHelper = () => {
     headers: {
       "content-type": "application/json",
       "Content-Type": "application/json",
-      "X-RapidAPI-Key": "8d1827b8a4msh60628a6827c2d77p14ce96jsnedc94b66788b",
+      "X-RapidAPI-Key": "",
       "X-RapidAPI-Host": "judge0-ce.p.rapidapi.com",
     },
     data: {
@@ -74,7 +74,7 @@ const CodeEditorHelper = () => {
       fields: "*",
     },
     headers: {
-      "X-RapidAPI-Key": "8d1827b8a4msh60628a6827c2d77p14ce96jsnedc94b66788b",
+      "X-RapidAPI-Key": "",
       "X-RapidAPI-Host": "judge0-ce.p.rapidapi.com",
     },
   };
